@@ -1,4 +1,6 @@
 # MiniProjects
-Mini projects I created for learning and distrubution my successful project so far is my weather application.
-This is a digital clock that can be used with visual studio code IDE I used the language C# and created with windows form, if you would like to use this code you would have to open it with IDE , due to unknown circumstances once you upload the file you would have to run it while debugging it as I have tried to fix it but have not been able to come up with the solution to the cause. the build works fine and it did before saving the file, although I am not sure as to why it only runs when debugging the build, but still this is my first project and I am happy the code still works and will make more.
-I have also made a weather application which I used Javascript, html, and css, which allowed me to make a app that can locate the weather anywhere in the world can also location your current location.
+Mini projects I created for learning and distrubution 
+I have made a inventory management app and a weather application using API most of my code I use the languages HTML, JAVA SCRIPT, CSS,AND C#
+these are small projects I have created in my spare time to establish experience and knowledge I am still learning but so far I am having fun.
+I will create many more projects in future, feel free to check my apps , please extract files before use , the programs I use to create these apps are visual studio code
+I use code academy and youtube to create these apps some are simplistic as I am still learning and some are complicated!
