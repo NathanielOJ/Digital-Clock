@@ -1,4 +1,4 @@
-# MiniProjects
+Digital Clock app
 Mini projects I created for learning and distrubution 
 I have made a inventory management app and a weather application using API most of my code I use the languages HTML, JAVA SCRIPT, CSS,AND C#
 these are small projects I have created in my spare time to establish experience and knowledge I am still learning but so far I am having fun.
